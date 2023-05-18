@@ -25,7 +25,7 @@
     <a href = "mailto: tailoncb@gmail.com">
       <img width="10%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
+    <a href = "https://www.linkedin.com/in/t%C3%A1ilon-brandini-61734225a/">
       <img width="12.5%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href = "https://www.instagram.com/tailonbrandini/">
