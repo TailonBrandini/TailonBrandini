@@ -28,7 +28,7 @@
     <a href = "https://www.linkedin.com/in/t%C3%A1ilon-brandini-61734225a/" target="_blank">
       <img width="12.5%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href = "https://www.instagram.com/tailonbrandini/">
+    <a href = "https://www.instagram.com/tailonbrandini/" target="_blank">
       <img width="14%" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
 </div>
