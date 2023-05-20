@@ -22,9 +22,6 @@
   <a href = "mailto: tailoncb@hotmail.com">
       <img width="21.5%" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
     </a>
-    <a href = "mailto: tailoncb@hotmail.com">
-      <img width="10%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
     <a href = "https://www.linkedin.com/in/t%C3%A1ilon-brandini-61734225a/" target="_blank">
       <img width="12.5%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
