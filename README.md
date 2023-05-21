@@ -1,5 +1,9 @@
-## Opaaa, Táilon Aqui!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B0E0E6&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Hey,+Call+me+Táilon+Brandini;I'm+18+years+old;I'm+from+Brazil;I+study+Computer+Science;at+Universidade+Vila+Velha+-UVV;it's+a+pleasure+to+meet+you!+:%29)](https://git.io/typing-svg)
+
+<br>
+<hr>
 <div>
   <a href= "https://github.com/TailonBrandini">
   <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=TailonBrandini&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
@@ -8,9 +12,10 @@
 <br>
 
 <div  align="center"> 
+   
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">↓ Melhores Tecnologias ↓</h1>
+    <h1 align="center">↓ ⌨️ Skils ⌨️ ↓</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -28,6 +33,10 @@
     <a href = "https://www.instagram.com/tailonbrandini/" target="_blank">
       <img width="14%" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-</div>
+
   
 ![Snake animation](https://github.com/TailonBrandini/TailonBrandini/blob/output/github-contribution-grid-snake.svg)
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TailonBrandini&bg_color=000000&color=07bfe4&line=042f86&point=16c5c2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  
